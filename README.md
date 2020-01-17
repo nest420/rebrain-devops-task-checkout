@@ -1,2 +1,0 @@
-# rebrain-devops-task-checkout
-
